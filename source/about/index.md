@@ -1,4 +1,4 @@
-title: "About"
+title: "关于"
 layout: "page"
 ---
 ### The blog theme you may fall in love with, coming to Hexo. [Preview](http://ppoffice.github.io/hexo-theme-icarus/)
@@ -123,7 +123,7 @@ banner: http://example.com/banner.jpg
 
 ### Custom Categories & Tags Pages
 
-To enable custom categories page and tags page, just copy the `categories` folder and `tags` folder under your theme's `_source` foler into your site's `source` folder. Then edit theme's _config.yml and add the following lines: 
+To enable custom categories page and tags page, just copy the `categories` folder and `tags` folder under your theme's `_source` foler into your site's `source` folder. Then edit theme's _config.yml and add the following lines:
 ```r
 # Header
 menu:
@@ -202,5 +202,3 @@ All of them are enabled by default. You can edit them in `widget` setting.
 [Fancybox]: http://fancyapps.com/fancybox/
 [Font Awesome]: http://fontawesome.io/
 [Grunt]: http://gruntjs.com/
-
-
