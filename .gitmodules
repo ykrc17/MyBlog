@@ -1,6 +1,0 @@
-[submodule "public"]
-	path = public
-	url = ../ykrc17.github.io
-[submodule "themes/icarus"]
-	path = themes/icarus
-	url = ../../ppoffice/hexo-theme-icarus.git
