@@ -1,0 +1,72 @@
+# Menus
+menu:
+  首页: .
+  归档: archives
+  分类: categories
+  标签: tags
+  关于: about
+
+# Customize
+customize:
+    logo:
+        enabled: false
+        width: 40
+        height: 40
+        url: images/logo.png
+    profile:
+        enabled: true # Whether to show profile bar
+        avatar: images/avatar.jpg
+        gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
+        author: ykrc17
+        author_title: 安卓开发
+        location: 中国 · 上海
+        follow: https://github.com/ykrc17/
+    highlight: monokai
+    sidebar: right # sidebar position, options: left, right
+    thumbnail: true # enable posts thumbnail, options: true, false
+    favicon: images/avatar.jpg # path to favicon
+    social_links:
+        github: https://github.com/ykrc17
+        weibo: http://weibo.com/u/2845419073
+        steam: http://steamcommunity.com/profiles/76561198104235555/
+
+# Widgets
+widgets:
+    - category
+    - recent_posts
+    - archive
+    - tag
+    - tagcloud
+    - links
+
+# Search
+search:
+    insight: true # you need to install `hexo-generator-json-content` before using Insight Search
+    swiftype: # enter swiftype install key here
+    baidu: false # you need to disable other search engines to use Baidu search, options: true, false
+
+# Comment
+comment:
+    disqus: # enter disqus shortname here
+    duoshuo: # enter duoshuo shortname here
+    youyan: 2096149 # enter youyan uid here
+
+# Share
+share: default # options: jiathis, bdshare, addtoany, default
+
+# Plugins
+plugins:
+    fancybox: true # options: true, false
+    google_analytics: # enter the tracking ID for your Google Analytics
+    google_site_verification: # enter Google site verification code
+    baidu_analytics: # enter Baidu Analytics hash key
+
+# Miscellaneous
+miscellaneous:
+    open_graph: # see http://ogp.me
+        fb_app_id:
+        fb_admins:
+        twitter_id:
+        google_plus:
+    links:
+        Hexo: http://hexo.io
