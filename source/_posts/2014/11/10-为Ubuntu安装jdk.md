@@ -1,9 +1,7 @@
 ---
 title: 为Ubuntu安装jdk
 date: 2014-11-10
-categories:
-  - Java
-  - Linux
+categories: Java
 ---
 >电脑新装了Ubuntu，需要把以前的开发环境都换一遍。在安装AS的时候，遇到了需要jdk的问题
 
