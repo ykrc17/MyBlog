@@ -1,7 +1,7 @@
 ---
-title: javascript：使用js控制台，引用外站*.js文件
+title: JavaScript：使用js控制台，引用外站*.js文件
 date: 2014-9-13
-categories: javascript
+categories: JavaScript
 ---
 ### 动机
 
@@ -13,16 +13,16 @@ categories: javascript
 这里用到document.createElement()方法，这个方法能够创建一个元素对象，创建完后再利用appendChild()或insertBefore()插入到指定节点。
 
 ### 用createElement()创建script元素
+```JavaScript
+var body = document.getElementsByTagName('BODY').item(0);
+var element = document.createElement("script");
 
-    var body = document.getElementsByTagName('BODY').item(0);
-    var element = document.createElement("script");
-    
-    // 外部方式
-    element.src = ****;
-    // 内部方式
-    element.innerHTML = ****;
+// 外部方式
+element.src = ****;
+// 内部方式
+element.innerHTML = ****;
 
-    body.appendChild(element);
-
+body.appendChild(element);
+```
 如上代码将js代码插入到body元素的末尾。
 该段代码可以在控制台中使用，比以前整个答题器的代码放入控制台来说，轻松多了。

@@ -21,7 +21,7 @@ customize:
         author_title: 安卓开发
         location: 中国 · 上海
         follow: https://github.com/ykrc17/
-    highlight: monokai
+    highlight: monokai-sublime
     sidebar: right # sidebar position, options: left, right
     thumbnail: true # enable posts thumbnail, options: true, false
     favicon: images/avatar.jpg # path to favicon
