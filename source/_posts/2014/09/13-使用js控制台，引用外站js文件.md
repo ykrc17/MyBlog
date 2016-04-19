@@ -1,5 +1,5 @@
 ---
-title: JavaScript：使用js控制台，引用外站*.js文件
+title: 使用js控制台，引用外站js文件
 date: 2014-9-13
 categories: JavaScript
 ---

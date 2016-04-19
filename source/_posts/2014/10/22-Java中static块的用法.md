@@ -1,5 +1,5 @@
 ---
-title: Java：static块的用法
+title: Java中static块的用法
 date: 2014-10-22
 categories: Java
 ---

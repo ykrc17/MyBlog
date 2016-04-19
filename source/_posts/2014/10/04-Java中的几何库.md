@@ -1,5 +1,5 @@
 ---
-title: Java：几何库
+title: Java中的几何库
 date: 2014-10-4
 categories: Java
 ---

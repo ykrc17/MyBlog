@@ -1,5 +1,5 @@
 ---
-title: Android：将菜单加入ActionBar
+title: 将菜单加入ActionBar
 date: 2014-9-22
 categories: Android
 ---

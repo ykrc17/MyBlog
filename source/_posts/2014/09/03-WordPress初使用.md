@@ -1,5 +1,5 @@
 ---
-title: Word Press：初使用
+title: WordPress初使用
 date: 2014-9-3
 categories: PHP
 ---

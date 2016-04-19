@@ -1,5 +1,5 @@
 ---
-title: Windows：在当前目录打开命令窗口
+title: Windows在当前目录打开命令窗口
 date: 2014-9-20
 categories: Windows
 ---

@@ -1,5 +1,5 @@
 ---
-title: Java：正则表达式，搜索行为
+title: Java中正则表达式的搜索行为
 date: 2014-10-21
 categories: Java
 ---

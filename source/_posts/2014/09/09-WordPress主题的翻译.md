@@ -1,5 +1,5 @@
 ---
-title: WordPress：主题的翻译
+title: WordPress主题的翻译
 date: 2014-9-9
 categories: PHP
 ---

@@ -1,5 +1,5 @@
 ---
-title: Android Studio：常用快捷键
+title: AndroidStudio常用快捷键
 date: 2014-9-17
 categories: Android
 ---
