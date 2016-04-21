@@ -1,7 +1,7 @@
 ---
 title: 试了试FAN墙软件ssh91
 date: 2015-7-15
-categories: Network
+categories: 互联网
 ---
 原来的pandafan，安全性做的太烂了，只要别人知道了你的端口就能用你的服务。而且，服务态度太烂了，所以不再考虑他。
 
