@@ -17,7 +17,7 @@ customize:
         enabled: true # Whether to show profile bar
         avatar: images/avatar.jpg
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-        author: Yukai (ykrc17)
+        author: ykrc17
         author_title: 安卓开发
         location: 中国 · 上海
         follow: https://github.com/ykrc17/
